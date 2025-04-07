@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Its the 3 file
+=======
+Its the third file
+>>>>>>> alien-plot

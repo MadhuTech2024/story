@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Its file 2
+=======
+Its the second file
+>>>>>>> alien-plot
